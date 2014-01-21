@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4D483128-5D5A-4210-B19A-06C94EE17056</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Getter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5964DE16-5D87-4B57-8564-33E82EA866C7</key>
+		<string>https://github.com/motimotimoti/getter-extreme.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Getter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5964DE16-5D87-4B57-8564-33E82EA866C7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/motimotimoti/getter-extreme.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5964DE16-5D87-4B57-8564-33E82EA866C7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5964DE16-5D87-4B57-8564-33E82EA866C7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Getter-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
